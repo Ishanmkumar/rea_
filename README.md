@@ -1,5 +1,5 @@
 # Here is the app's snapshot(login page)
-#Chitchat
+Chitchat
 ![Screenshot 2024-07-14 173444](https://github.com/user-attachments/assets/a220d1fb-a385-44a9-abc8-bcde8a6a2860)
 
 
